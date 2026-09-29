@@ -1,0 +1,6 @@
+name: genpark-sse-server-sent-events-protocol-parser-skill
+version: 1.0.0
+description: RFC-compliant Server-Sent Events (SSE) streaming frame parser handling data, events, ids, and multi-line payloads
+command: python
+args:
+  - mcp_server.py
