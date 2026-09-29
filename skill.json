@@ -1,0 +1,20 @@
+{
+  "name": "genpark-sse-server-sent-events-protocol-parser-skill",
+  "version": "1.0.0",
+  "description": "RFC-compliant Server-Sent Events (SSE) streaming frame parser handling data, events, ids, and multi-line payloads",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "sse-parser",
+    "server-sent-events",
+    "streaming",
+    "event-stream",
+    "token-streaming",
+    "python-standard-library",
+    "agent-skills",
+    "realtime",
+    "protocol",
+    "developer-tools"
+  ]
+}
